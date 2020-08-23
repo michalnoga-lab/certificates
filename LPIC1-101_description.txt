@@ -1,0 +1,8 @@
+* Basics of shell work
+* Managing local users as well as groups and access rights
+* Disk management
+* Software installation
+* Processes management
+* System startup management
+* Hardware configuration
+* Creating and using virtual machines 
