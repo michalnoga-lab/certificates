@@ -1,0 +1,9 @@
+* Network support and configuration in GNU / Linux systems
+* Basics of the BASH language
+* Configuration of the SMTP server
+* Use of GPG for encryption, decryption, signing and verifying files
+* System log support and service management system time
+* Fundamentals of system security management
+* Installation and configuration of the print server in the system Linux (CUPS)
+* Installation and configuration of X11 (desktop environment) 
+* Remote work
