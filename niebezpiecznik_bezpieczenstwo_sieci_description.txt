@@ -1,0 +1,7 @@
+* Attack techniques and programs used by hackers
+* Ways to protect servers and services running on them against attacks
+* Learning about network security testing tools
+* Exercises in attacking network services and devices
+* Types and stages of penetration tests and methods of conducting them
+* Risk analysis
+* Preparing a report of a penetration test
